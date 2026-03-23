@@ -1,0 +1,317 @@
+2026-03-22T00:05:01.711433-05:00 lgrana2-X442URR CRON[40557]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T00:05:01.723360-05:00 lgrana2-X442URR CRON[40557]: pam_unix(cron:session): session closed for user root
+2026-03-22T00:15:01.740906-05:00 lgrana2-X442URR CRON[40863]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T00:15:01.751638-05:00 lgrana2-X442URR CRON[40863]: pam_unix(cron:session): session closed for user root
+2026-03-22T00:17:01.768238-05:00 lgrana2-X442URR CRON[40931]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T00:17:01.779199-05:00 lgrana2-X442URR CRON[40931]: pam_unix(cron:session): session closed for user root
+2026-03-22T00:25:01.797033-05:00 lgrana2-X442URR CRON[41126]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T00:25:01.807103-05:00 lgrana2-X442URR CRON[41126]: pam_unix(cron:session): session closed for user root
+2026-03-22T00:35:01.825353-05:00 lgrana2-X442URR CRON[41395]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T00:35:01.836750-05:00 lgrana2-X442URR CRON[41395]: pam_unix(cron:session): session closed for user root
+2026-03-22T00:45:01.854025-05:00 lgrana2-X442URR CRON[41670]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T00:45:01.864273-05:00 lgrana2-X442URR CRON[41670]: pam_unix(cron:session): session closed for user root
+2026-03-22T00:55:01.883883-05:00 lgrana2-X442URR CRON[41980]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T00:55:01.893582-05:00 lgrana2-X442URR CRON[41980]: pam_unix(cron:session): session closed for user root
+2026-03-22T01:05:01.912170-05:00 lgrana2-X442URR CRON[42254]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T01:05:01.922818-05:00 lgrana2-X442URR CRON[42254]: pam_unix(cron:session): session closed for user root
+2026-03-22T01:15:01.942184-05:00 lgrana2-X442URR CRON[42582]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T01:15:01.952729-05:00 lgrana2-X442URR CRON[42582]: pam_unix(cron:session): session closed for user root
+2026-03-22T01:17:01.970031-05:00 lgrana2-X442URR CRON[42616]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T01:17:01.980752-05:00 lgrana2-X442URR CRON[42616]: pam_unix(cron:session): session closed for user root
+2026-03-22T01:25:01.999512-05:00 lgrana2-X442URR CRON[42898]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T01:25:02.009722-05:00 lgrana2-X442URR CRON[42898]: pam_unix(cron:session): session closed for user root
+2026-03-22T01:35:01.028086-05:00 lgrana2-X442URR CRON[43575]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T01:35:01.038765-05:00 lgrana2-X442URR CRON[43575]: pam_unix(cron:session): session closed for user root
+2026-03-22T01:45:01.058169-05:00 lgrana2-X442URR CRON[43817]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T01:45:01.068629-05:00 lgrana2-X442URR CRON[43817]: pam_unix(cron:session): session closed for user root
+2026-03-22T01:55:01.087065-05:00 lgrana2-X442URR CRON[44078]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T01:55:01.097392-05:00 lgrana2-X442URR CRON[44078]: pam_unix(cron:session): session closed for user root
+2026-03-22T02:05:01.115359-05:00 lgrana2-X442URR CRON[44341]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T02:05:01.125796-05:00 lgrana2-X442URR CRON[44341]: pam_unix(cron:session): session closed for user root
+2026-03-22T02:15:01.145039-05:00 lgrana2-X442URR CRON[44717]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T02:15:01.155825-05:00 lgrana2-X442URR CRON[44717]: pam_unix(cron:session): session closed for user root
+2026-03-22T02:17:01.172133-05:00 lgrana2-X442URR CRON[44784]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T02:17:01.181869-05:00 lgrana2-X442URR CRON[44784]: pam_unix(cron:session): session closed for user root
+2026-03-22T02:25:01.200474-05:00 lgrana2-X442URR CRON[45019]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T02:25:01.210678-05:00 lgrana2-X442URR CRON[45019]: pam_unix(cron:session): session closed for user root
+2026-03-22T02:35:01.229693-05:00 lgrana2-X442URR CRON[45289]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T02:35:01.240448-05:00 lgrana2-X442URR CRON[45289]: pam_unix(cron:session): session closed for user root
+2026-03-22T02:45:01.254124-05:00 lgrana2-X442URR CRON[45560]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T02:45:01.257445-05:00 lgrana2-X442URR CRON[45560]: pam_unix(cron:session): session closed for user root
+2026-03-22T02:55:01.275795-05:00 lgrana2-X442URR CRON[45834]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T02:55:01.286766-05:00 lgrana2-X442URR CRON[45834]: pam_unix(cron:session): session closed for user root
+2026-03-22T03:05:01.305439-05:00 lgrana2-X442URR CRON[46175]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T03:05:01.315105-05:00 lgrana2-X442URR CRON[46175]: pam_unix(cron:session): session closed for user root
+2026-03-22T03:10:01.328343-05:00 lgrana2-X442URR CRON[46305]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T03:10:01.330815-05:00 lgrana2-X442URR CRON[46305]: pam_unix(cron:session): session closed for user root
+2026-03-22T03:15:01.346397-05:00 lgrana2-X442URR CRON[46459]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T03:15:01.356185-05:00 lgrana2-X442URR CRON[46459]: pam_unix(cron:session): session closed for user root
+2026-03-22T03:17:01.371491-05:00 lgrana2-X442URR CRON[46489]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T03:17:01.378764-05:00 lgrana2-X442URR CRON[46489]: pam_unix(cron:session): session closed for user root
+2026-03-22T03:25:01.397328-05:00 lgrana2-X442URR CRON[46762]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T03:25:01.406431-05:00 lgrana2-X442URR CRON[46762]: pam_unix(cron:session): session closed for user root
+2026-03-22T03:30:01.422543-05:00 lgrana2-X442URR CRON[46868]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T03:30:01.429902-05:00 lgrana2-X442URR CRON[46868]: pam_unix(cron:session): session closed for user root
+2026-03-22T03:35:01.448506-05:00 lgrana2-X442URR CRON[47022]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T03:35:01.458373-05:00 lgrana2-X442URR CRON[47022]: pam_unix(cron:session): session closed for user root
+2026-03-22T03:45:01.476370-05:00 lgrana2-X442URR CRON[47284]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T03:45:01.486063-05:00 lgrana2-X442URR CRON[47284]: pam_unix(cron:session): session closed for user root
+2026-03-22T03:55:01.502489-05:00 lgrana2-X442URR CRON[47598]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T03:55:01.505557-05:00 lgrana2-X442URR CRON[47598]: pam_unix(cron:session): session closed for user root
+2026-03-22T04:05:01.518233-05:00 lgrana2-X442URR CRON[47855]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T04:05:01.521989-05:00 lgrana2-X442URR CRON[47855]: pam_unix(cron:session): session closed for user root
+2026-03-22T04:15:01.541891-05:00 lgrana2-X442URR CRON[48144]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T04:15:01.548898-05:00 lgrana2-X442URR CRON[48144]: pam_unix(cron:session): session closed for user root
+2026-03-22T04:17:01.563204-05:00 lgrana2-X442URR CRON[48177]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T04:17:01.573510-05:00 lgrana2-X442URR CRON[48177]: pam_unix(cron:session): session closed for user root
+2026-03-22T04:25:01.591793-05:00 lgrana2-X442URR CRON[48378]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T04:25:01.601595-05:00 lgrana2-X442URR CRON[48378]: pam_unix(cron:session): session closed for user root
+2026-03-22T04:35:01.621234-05:00 lgrana2-X442URR CRON[48677]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T04:35:01.632142-05:00 lgrana2-X442URR CRON[48677]: pam_unix(cron:session): session closed for user root
+2026-03-22T04:45:01.645930-05:00 lgrana2-X442URR CRON[48948]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T04:45:01.649232-05:00 lgrana2-X442URR CRON[48948]: pam_unix(cron:session): session closed for user root
+2026-03-22T04:55:01.667135-05:00 lgrana2-X442URR CRON[49213]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T04:55:01.676741-05:00 lgrana2-X442URR CRON[49213]: pam_unix(cron:session): session closed for user root
+2026-03-22T05:05:01.697122-05:00 lgrana2-X442URR CRON[49486]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T05:05:01.707756-05:00 lgrana2-X442URR CRON[49486]: pam_unix(cron:session): session closed for user root
+2026-03-22T05:15:01.724728-05:00 lgrana2-X442URR CRON[49820]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T05:15:01.734453-05:00 lgrana2-X442URR CRON[49820]: pam_unix(cron:session): session closed for user root
+2026-03-22T05:17:01.750067-05:00 lgrana2-X442URR CRON[49890]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T05:17:01.759824-05:00 lgrana2-X442URR CRON[49890]: pam_unix(cron:session): session closed for user root
+2026-03-22T05:25:01.779738-05:00 lgrana2-X442URR CRON[50086]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T05:25:01.803451-05:00 lgrana2-X442URR CRON[50086]: pam_unix(cron:session): session closed for user root
+2026-03-22T05:35:01.808305-05:00 lgrana2-X442URR CRON[50377]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T05:35:01.818164-05:00 lgrana2-X442URR CRON[50377]: pam_unix(cron:session): session closed for user root
+2026-03-22T05:45:01.837319-05:00 lgrana2-X442URR CRON[50635]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T05:45:01.847765-05:00 lgrana2-X442URR CRON[50635]: pam_unix(cron:session): session closed for user root
+2026-03-22T05:55:01.866653-05:00 lgrana2-X442URR CRON[50890]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T05:55:01.875602-05:00 lgrana2-X442URR CRON[50890]: pam_unix(cron:session): session closed for user root
+2026-03-22T06:05:01.893932-05:00 lgrana2-X442URR CRON[51250]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T06:05:01.903785-05:00 lgrana2-X442URR CRON[51250]: pam_unix(cron:session): session closed for user root
+2026-03-22T06:15:01.921658-05:00 lgrana2-X442URR CRON[51517]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T06:15:01.931913-05:00 lgrana2-X442URR CRON[51517]: pam_unix(cron:session): session closed for user root
+2026-03-22T06:17:01.947271-05:00 lgrana2-X442URR CRON[51545]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T06:17:01.957801-05:00 lgrana2-X442URR CRON[51545]: pam_unix(cron:session): session closed for user root
+2026-03-22T06:25:01.975333-05:00 lgrana2-X442URR CRON[53397]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T06:25:01.982647-05:00 lgrana2-X442URR CRON[53397]: pam_unix(cron:session): session closed for user root
+2026-03-22T06:25:01.997607-05:00 lgrana2-X442URR CRON[53398]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T06:25:02.008353-05:00 lgrana2-X442URR CRON[53398]: pam_unix(cron:session): session closed for user root
+2026-03-22T06:31:46.606865-05:00 lgrana2-X442URR pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by lgrana2(uid=1000)
+2026-03-22T06:31:46.613321-05:00 lgrana2-X442URR pkexec[53581]: lgrana2: Executing command [USER=root] [TTY=unknown] [CWD=/home/lgrana2] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+2026-03-22T06:35:01.026662-05:00 lgrana2-X442URR CRON[53685]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T06:35:01.036175-05:00 lgrana2-X442URR CRON[53685]: pam_unix(cron:session): session closed for user root
+2026-03-22T06:45:01.055178-05:00 lgrana2-X442URR CRON[54004]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T06:45:01.066736-05:00 lgrana2-X442URR CRON[54004]: pam_unix(cron:session): session closed for user root
+2026-03-22T06:47:01.081951-05:00 lgrana2-X442URR CRON[54110]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T06:47:01.089909-05:00 lgrana2-X442URR CRON[54110]: pam_unix(cron:session): session closed for user root
+2026-03-22T06:55:01.107679-05:00 lgrana2-X442URR CRON[54300]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T06:55:01.117959-05:00 lgrana2-X442URR CRON[54300]: pam_unix(cron:session): session closed for user root
+2026-03-22T07:05:01.136694-05:00 lgrana2-X442URR CRON[54587]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T07:05:01.147189-05:00 lgrana2-X442URR CRON[54587]: pam_unix(cron:session): session closed for user root
+2026-03-22T07:15:01.164934-05:00 lgrana2-X442URR CRON[54910]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T07:15:01.174960-05:00 lgrana2-X442URR CRON[54910]: pam_unix(cron:session): session closed for user root
+2026-03-22T07:17:01.191022-05:00 lgrana2-X442URR CRON[54974]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T07:17:01.201643-05:00 lgrana2-X442URR CRON[54974]: pam_unix(cron:session): session closed for user root
+2026-03-22T07:25:01.219774-05:00 lgrana2-X442URR CRON[55242]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T07:25:01.230051-05:00 lgrana2-X442URR CRON[55242]: pam_unix(cron:session): session closed for user root
+2026-03-22T07:30:01.246211-05:00 lgrana2-X442URR CRON[55386]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T07:30:01.254367-05:00 lgrana2-X442URR CRON[55386]: pam_unix(cron:session): session closed for user root
+2026-03-22T07:35:01.272165-05:00 lgrana2-X442URR CRON[55500]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T07:35:01.282885-05:00 lgrana2-X442URR CRON[55500]: pam_unix(cron:session): session closed for user root
+2026-03-22T07:45:01.302362-05:00 lgrana2-X442URR CRON[55773]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T07:45:01.312369-05:00 lgrana2-X442URR CRON[55773]: pam_unix(cron:session): session closed for user root
+2026-03-22T07:55:01.332065-05:00 lgrana2-X442URR CRON[56048]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T07:55:01.341854-05:00 lgrana2-X442URR CRON[56048]: pam_unix(cron:session): session closed for user root
+2026-03-22T08:05:01.360986-05:00 lgrana2-X442URR CRON[56436]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T08:05:01.370647-05:00 lgrana2-X442URR CRON[56436]: pam_unix(cron:session): session closed for user root
+2026-03-22T08:15:01.385077-05:00 lgrana2-X442URR CRON[56773]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T08:15:01.388658-05:00 lgrana2-X442URR CRON[56773]: pam_unix(cron:session): session closed for user root
+2026-03-22T08:17:01.403309-05:00 lgrana2-X442URR CRON[56799]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T08:17:01.412757-05:00 lgrana2-X442URR CRON[56799]: pam_unix(cron:session): session closed for user root
+2026-03-22T08:25:01.430912-05:00 lgrana2-X442URR CRON[57060]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T08:25:01.440590-05:00 lgrana2-X442URR CRON[57060]: pam_unix(cron:session): session closed for user root
+2026-03-22T08:30:01.453936-05:00 lgrana2-X442URR CRON[57242]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T08:30:01.456276-05:00 lgrana2-X442URR CRON[57242]: pam_unix(cron:session): session closed for user root
+2026-03-22T08:35:01.471326-05:00 lgrana2-X442URR CRON[57528]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T08:35:01.481099-05:00 lgrana2-X442URR CRON[57528]: pam_unix(cron:session): session closed for user root
+2026-03-22T08:45:01.501248-05:00 lgrana2-X442URR CRON[57944]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T08:45:01.510995-05:00 lgrana2-X442URR CRON[57944]: pam_unix(cron:session): session closed for user root
+2026-03-22T08:55:01.530122-05:00 lgrana2-X442URR CRON[58486]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T08:55:01.540111-05:00 lgrana2-X442URR CRON[58486]: pam_unix(cron:session): session closed for user root
+2026-03-22T09:05:01.558903-05:00 lgrana2-X442URR CRON[59072]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T09:05:01.568785-05:00 lgrana2-X442URR CRON[59072]: pam_unix(cron:session): session closed for user root
+2026-03-22T09:15:01.578490-05:00 lgrana2-X442URR CRON[59492]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T09:15:01.582537-05:00 lgrana2-X442URR CRON[59492]: pam_unix(cron:session): session closed for user root
+2026-03-22T09:17:01.589124-05:00 lgrana2-X442URR CRON[59568]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T09:17:01.592183-05:00 lgrana2-X442URR CRON[59568]: pam_unix(cron:session): session closed for user root
+2026-03-22T09:25:01.602339-05:00 lgrana2-X442URR CRON[59994]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T09:25:01.606376-05:00 lgrana2-X442URR CRON[59994]: pam_unix(cron:session): session closed for user root
+2026-03-22T09:30:01.620437-05:00 lgrana2-X442URR CRON[60153]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T09:30:01.625172-05:00 lgrana2-X442URR CRON[60153]: pam_unix(cron:session): session closed for user root
+2026-03-22T09:35:01.640236-05:00 lgrana2-X442URR CRON[60312]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T09:35:01.648826-05:00 lgrana2-X442URR CRON[60312]: pam_unix(cron:session): session closed for user root
+2026-03-22T09:45:01.666027-05:00 lgrana2-X442URR CRON[60606]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T09:45:01.673698-05:00 lgrana2-X442URR CRON[60606]: pam_unix(cron:session): session closed for user root
+2026-03-22T09:55:01.691769-05:00 lgrana2-X442URR CRON[61029]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T09:55:01.701946-05:00 lgrana2-X442URR CRON[61029]: pam_unix(cron:session): session closed for user root
+2026-03-22T10:05:01.722049-05:00 lgrana2-X442URR CRON[61475]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T10:05:01.732035-05:00 lgrana2-X442URR CRON[61475]: pam_unix(cron:session): session closed for user root
+2026-03-22T10:15:01.750490-05:00 lgrana2-X442URR CRON[61817]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T10:15:01.760293-05:00 lgrana2-X442URR CRON[61817]: pam_unix(cron:session): session closed for user root
+2026-03-22T10:17:01.776316-05:00 lgrana2-X442URR CRON[61883]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T10:17:01.786101-05:00 lgrana2-X442URR CRON[61883]: pam_unix(cron:session): session closed for user root
+2026-03-22T10:25:01.804499-05:00 lgrana2-X442URR CRON[62141]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T10:25:01.815268-05:00 lgrana2-X442URR CRON[62141]: pam_unix(cron:session): session closed for user root
+2026-03-22T10:30:01.832688-05:00 lgrana2-X442URR CRON[62265]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T10:30:01.840820-05:00 lgrana2-X442URR CRON[62265]: pam_unix(cron:session): session closed for user root
+2026-03-22T10:35:01.857807-05:00 lgrana2-X442URR CRON[62465]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T10:35:01.868606-05:00 lgrana2-X442URR CRON[62465]: pam_unix(cron:session): session closed for user root
+2026-03-22T10:45:01.886805-05:00 lgrana2-X442URR CRON[65984]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T10:45:01.896115-05:00 lgrana2-X442URR CRON[65984]: pam_unix(cron:session): session closed for user root
+2026-03-22T10:55:01.914241-05:00 lgrana2-X442URR CRON[66365]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T10:55:01.924828-05:00 lgrana2-X442URR CRON[66365]: pam_unix(cron:session): session closed for user root
+2026-03-22T11:05:01.943627-05:00 lgrana2-X442URR CRON[66706]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T11:05:01.954782-05:00 lgrana2-X442URR CRON[66706]: pam_unix(cron:session): session closed for user root
+2026-03-22T11:08:39.562703-05:00 lgrana2-X442URR gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname=lgrana2 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=lgrana2
+2026-03-22T11:08:51.808706-05:00 lgrana2-X442URR gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname=lgrana2 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=lgrana2
+2026-03-22T11:09:11.149780-05:00 lgrana2-X442URR gdm-password]: gkr-pam: unlocked login keyring
+2026-03-22T11:15:02.006733-05:00 lgrana2-X442URR CRON[67562]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T11:15:02.017378-05:00 lgrana2-X442URR CRON[67562]: pam_unix(cron:session): session closed for user root
+2026-03-22T11:17:01.029736-05:00 lgrana2-X442URR CRON[67725]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T11:17:01.060093-05:00 lgrana2-X442URR CRON[67725]: pam_unix(cron:session): session closed for user root
+2026-03-22T11:25:01.099339-05:00 lgrana2-X442URR CRON[68719]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T11:25:01.109814-05:00 lgrana2-X442URR CRON[68719]: pam_unix(cron:session): session closed for user root
+2026-03-22T11:30:01.126850-05:00 lgrana2-X442URR CRON[68957]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T11:30:01.133830-05:00 lgrana2-X442URR CRON[68957]: pam_unix(cron:session): session closed for user root
+2026-03-22T11:35:01.151856-05:00 lgrana2-X442URR CRON[69141]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T11:35:01.161516-05:00 lgrana2-X442URR CRON[69141]: pam_unix(cron:session): session closed for user root
+2026-03-22T11:45:01.180493-05:00 lgrana2-X442URR CRON[69558]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T11:45:01.190791-05:00 lgrana2-X442URR CRON[69558]: pam_unix(cron:session): session closed for user root
+2026-03-22T11:55:01.209864-05:00 lgrana2-X442URR CRON[69976]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T11:55:01.220232-05:00 lgrana2-X442URR CRON[69976]: pam_unix(cron:session): session closed for user root
+2026-03-22T12:05:01.234795-05:00 lgrana2-X442URR CRON[70459]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T12:05:01.238131-05:00 lgrana2-X442URR CRON[70459]: pam_unix(cron:session): session closed for user root
+2026-03-22T12:15:01.255189-05:00 lgrana2-X442URR CRON[70821]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T12:15:01.266182-05:00 lgrana2-X442URR CRON[70821]: pam_unix(cron:session): session closed for user root
+2026-03-22T12:17:01.282485-05:00 lgrana2-X442URR CRON[70902]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T12:17:01.292876-05:00 lgrana2-X442URR CRON[70902]: pam_unix(cron:session): session closed for user root
+2026-03-22T12:25:01.310589-05:00 lgrana2-X442URR CRON[71320]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T12:25:01.320405-05:00 lgrana2-X442URR CRON[71320]: pam_unix(cron:session): session closed for user root
+2026-03-22T12:30:01.336884-05:00 lgrana2-X442URR CRON[71570]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T12:30:01.344418-05:00 lgrana2-X442URR CRON[71570]: pam_unix(cron:session): session closed for user root
+2026-03-22T12:35:01.361326-05:00 lgrana2-X442URR CRON[71702]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T12:35:01.372491-05:00 lgrana2-X442URR CRON[71702]: pam_unix(cron:session): session closed for user root
+2026-03-22T12:45:01.404073-05:00 lgrana2-X442URR CRON[72235]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T12:45:01.415136-05:00 lgrana2-X442URR CRON[72235]: pam_unix(cron:session): session closed for user root
+2026-03-22T12:55:01.433770-05:00 lgrana2-X442URR CRON[72506]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T12:55:01.443590-05:00 lgrana2-X442URR CRON[72506]: pam_unix(cron:session): session closed for user root
+2026-03-22T13:05:01.457868-05:00 lgrana2-X442URR CRON[72863]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T13:05:01.461195-05:00 lgrana2-X442URR CRON[72863]: pam_unix(cron:session): session closed for user root
+2026-03-22T13:15:01.474525-05:00 lgrana2-X442URR CRON[73390]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T13:15:01.501403-05:00 lgrana2-X442URR CRON[73390]: pam_unix(cron:session): session closed for user root
+2026-03-22T13:17:01.512846-05:00 lgrana2-X442URR CRON[73439]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T13:17:01.540882-05:00 lgrana2-X442URR CRON[73439]: pam_unix(cron:session): session closed for user root
+2026-03-22T13:25:01.559710-05:00 lgrana2-X442URR CRON[73812]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T13:25:01.583331-05:00 lgrana2-X442URR CRON[73812]: pam_unix(cron:session): session closed for user root
+2026-03-22T13:30:01.583468-05:00 lgrana2-X442URR CRON[73940]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T13:30:01.590727-05:00 lgrana2-X442URR CRON[73940]: pam_unix(cron:session): session closed for user root
+2026-03-22T13:35:01.608743-05:00 lgrana2-X442URR CRON[74114]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T13:35:01.619059-05:00 lgrana2-X442URR CRON[74114]: pam_unix(cron:session): session closed for user root
+2026-03-22T13:41:24.282540-05:00 lgrana2-X442URR gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname=lgrana2 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=lgrana2
+2026-03-22T13:41:31.950578-05:00 lgrana2-X442URR gdm-password]: gkr-pam: unlocked login keyring
+2026-03-22T13:45:01.654503-05:00 lgrana2-X442URR CRON[74636]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T13:45:01.655180-05:00 lgrana2-X442URR CRON[74636]: pam_unix(cron:session): session closed for user root
+2026-03-22T13:55:01.660057-05:00 lgrana2-X442URR CRON[75919]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T13:55:01.672509-05:00 lgrana2-X442URR CRON[75919]: pam_unix(cron:session): session closed for user root
+2026-03-22T14:05:01.732851-05:00 lgrana2-X442URR CRON[77034]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T14:05:01.745122-05:00 lgrana2-X442URR CRON[77034]: pam_unix(cron:session): session closed for user root
+2026-03-22T14:15:01.762532-05:00 lgrana2-X442URR CRON[77635]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T14:15:01.772542-05:00 lgrana2-X442URR CRON[77635]: pam_unix(cron:session): session closed for user root
+2026-03-22T14:17:01.788881-05:00 lgrana2-X442URR CRON[77711]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T14:17:01.817813-05:00 lgrana2-X442URR CRON[77711]: pam_unix(cron:session): session closed for user root
+2026-03-22T14:25:01.837138-05:00 lgrana2-X442URR CRON[77944]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T14:25:01.846516-05:00 lgrana2-X442URR CRON[77944]: pam_unix(cron:session): session closed for user root
+2026-03-22T14:30:01.863293-05:00 lgrana2-X442URR CRON[78163]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T14:30:01.887744-05:00 lgrana2-X442URR CRON[78163]: pam_unix(cron:session): session closed for user root
+2026-03-22T14:35:01.887746-05:00 lgrana2-X442URR CRON[78332]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T14:35:01.897876-05:00 lgrana2-X442URR CRON[78332]: pam_unix(cron:session): session closed for user root
+2026-03-22T14:45:01.916068-05:00 lgrana2-X442URR CRON[78697]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T14:45:01.925764-05:00 lgrana2-X442URR CRON[78697]: pam_unix(cron:session): session closed for user root
+2026-03-22T14:46:31.072930-05:00 lgrana2-X442URR gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname=lgrana2 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=lgrana2
+2026-03-22T14:46:38.489061-05:00 lgrana2-X442URR gdm-password]: gkr-pam: unlocked login keyring
+2026-03-22T14:55:01.943095-05:00 lgrana2-X442URR CRON[79449]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T14:55:01.954124-05:00 lgrana2-X442URR CRON[79449]: pam_unix(cron:session): session closed for user root
+2026-03-22T15:05:01.999692-05:00 lgrana2-X442URR CRON[80957]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T15:05:02.010227-05:00 lgrana2-X442URR CRON[80957]: pam_unix(cron:session): session closed for user root
+2026-03-22T15:15:01.025557-05:00 lgrana2-X442URR CRON[81564]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T15:15:01.033831-05:00 lgrana2-X442URR CRON[81564]: pam_unix(cron:session): session closed for user root
+2026-03-22T15:17:01.049031-05:00 lgrana2-X442URR CRON[81610]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T15:17:01.059463-05:00 lgrana2-X442URR CRON[81610]: pam_unix(cron:session): session closed for user root
+2026-03-22T15:21:53.463186-05:00 lgrana2-X442URR gdm-password]: gkr-pam: unlocked login keyring
+2026-03-22T15:25:01.071671-05:00 lgrana2-X442URR CRON[82092]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T15:25:01.077024-05:00 lgrana2-X442URR CRON[82092]: pam_unix(cron:session): session closed for user root
+2026-03-22T15:30:01.086220-05:00 lgrana2-X442URR CRON[83078]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T15:30:01.088517-05:00 lgrana2-X442URR CRON[83078]: pam_unix(cron:session): session closed for user root
+2026-03-22T15:35:01.118636-05:00 lgrana2-X442URR CRON[83713]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T15:35:01.124161-05:00 lgrana2-X442URR CRON[83713]: pam_unix(cron:session): session closed for user root
+2026-03-22T15:45:01.141278-05:00 lgrana2-X442URR CRON[84389]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T15:45:01.166263-05:00 lgrana2-X442URR CRON[84389]: pam_unix(cron:session): session closed for user root
+2026-03-22T15:53:26.185235-05:00 lgrana2-X442URR gdm-password]: gkr-pam: unlocked login keyring
+2026-03-22T15:55:01.176591-05:00 lgrana2-X442URR CRON[85202]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T15:55:01.190140-05:00 lgrana2-X442URR CRON[85202]: pam_unix(cron:session): session closed for user root
+2026-03-22T16:05:01.233717-05:00 lgrana2-X442URR CRON[86969]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T16:05:01.240904-05:00 lgrana2-X442URR CRON[86969]: pam_unix(cron:session): session closed for user root
+2026-03-22T16:06:41.261104-05:00 lgrana2-X442URR gnome-keyring-daemon[3598]: asked to register item /org/freedesktop/secrets/collection/login/2, but it's already registered
+2026-03-22T16:15:01.294771-05:00 lgrana2-X442URR CRON[89750]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T16:15:01.307590-05:00 lgrana2-X442URR CRON[89750]: pam_unix(cron:session): session closed for user root
+2026-03-22T16:17:01.324466-05:00 lgrana2-X442URR CRON[90007]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T16:17:01.353256-05:00 lgrana2-X442URR CRON[90007]: pam_unix(cron:session): session closed for user root
+2026-03-22T16:25:01.394089-05:00 lgrana2-X442URR CRON[90964]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T16:25:01.403089-05:00 lgrana2-X442URR CRON[90964]: pam_unix(cron:session): session closed for user root
+2026-03-22T16:25:54.618246-05:00 lgrana2-X442URR gdm-password]: gkr-pam: unlocked login keyring
+2026-03-22T16:30:01.420241-05:00 lgrana2-X442URR CRON[92036]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T16:30:01.430884-05:00 lgrana2-X442URR CRON[92036]: pam_unix(cron:session): session closed for user root
+2026-03-22T16:35:01.447616-05:00 lgrana2-X442URR CRON[92794]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T16:35:01.457390-05:00 lgrana2-X442URR CRON[92794]: pam_unix(cron:session): session closed for user root
+2026-03-22T16:45:01.466751-05:00 lgrana2-X442URR CRON[93209]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T16:45:01.469110-05:00 lgrana2-X442URR CRON[93209]: pam_unix(cron:session): session closed for user root
+2026-03-22T16:55:01.474365-05:00 lgrana2-X442URR CRON[93498]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T16:55:01.476955-05:00 lgrana2-X442URR CRON[93498]: pam_unix(cron:session): session closed for user root
+2026-03-22T17:05:01.518068-05:00 lgrana2-X442URR CRON[93892]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T17:05:01.528201-05:00 lgrana2-X442URR CRON[93892]: pam_unix(cron:session): session closed for user root
+2026-03-22T17:15:01.585221-05:00 lgrana2-X442URR CRON[94923]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T17:15:01.596103-05:00 lgrana2-X442URR CRON[94923]: pam_unix(cron:session): session closed for user root
+2026-03-22T17:17:01.614137-05:00 lgrana2-X442URR CRON[94998]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T17:17:01.645989-05:00 lgrana2-X442URR CRON[94998]: pam_unix(cron:session): session closed for user root
+2026-03-22T17:24:05.351590-05:00 lgrana2-X442URR systemd-logind[1568]: The system will suspend now!
+2026-03-22T20:12:25.603557-05:00 lgrana2-X442URR systemd-logind[1568]: Operation 'suspend' finished.
+2026-03-22T20:12:43.025622-05:00 lgrana2-X442URR gdm-password]: gkr-pam: unlocked login keyring
+2026-03-22T20:13:16.515673-05:00 lgrana2-X442URR CRON[95926]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T20:13:16.517973-05:00 lgrana2-X442URR CRON[95926]: pam_unix(cron:session): session closed for user root
+2026-03-22T20:13:16.522446-05:00 lgrana2-X442URR CRON[95928]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T20:13:16.524626-05:00 lgrana2-X442URR CRON[95928]: pam_unix(cron:session): session closed for user root
+2026-03-22T20:13:16.528474-05:00 lgrana2-X442URR CRON[95930]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T20:13:16.530529-05:00 lgrana2-X442URR CRON[95930]: pam_unix(cron:session): session closed for user root
+2026-03-22T20:15:01.547855-05:00 lgrana2-X442URR CRON[96226]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T20:15:01.559851-05:00 lgrana2-X442URR CRON[96226]: pam_unix(cron:session): session closed for user root
+2026-03-22T20:17:01.580841-05:00 lgrana2-X442URR CRON[96731]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T20:17:01.591759-05:00 lgrana2-X442URR CRON[96731]: pam_unix(cron:session): session closed for user root
+2026-03-22T20:25:01.615476-05:00 lgrana2-X442URR CRON[97653]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T20:25:01.628478-05:00 lgrana2-X442URR CRON[97653]: pam_unix(cron:session): session closed for user root
+2026-03-22T20:30:01.650763-05:00 lgrana2-X442URR CRON[97856]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T20:30:01.663275-05:00 lgrana2-X442URR CRON[97856]: pam_unix(cron:session): session closed for user root
+2026-03-22T20:35:01.681283-05:00 lgrana2-X442URR CRON[98183]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T20:35:01.691703-05:00 lgrana2-X442URR CRON[98183]: pam_unix(cron:session): session closed for user root
+2026-03-22T20:45:01.710554-05:00 lgrana2-X442URR CRON[99093]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T20:45:01.721050-05:00 lgrana2-X442URR CRON[99093]: pam_unix(cron:session): session closed for user root
+2026-03-22T20:55:01.741633-05:00 lgrana2-X442URR CRON[100362]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-22T20:55:01.751601-05:00 lgrana2-X442URR CRON[100362]: pam_unix(cron:session): session closed for user root
+2026-03-22T20:56:10.413524-05:00 lgrana2-X442URR sudo: pam_unix(sudo:auth): authentication failure; logname=lgrana2 uid=1000 euid=0 tty=/dev/pts/0 ruser=lgrana2 rhost=  user=lgrana2
+2026-03-22T20:56:19.619634-05:00 lgrana2-X442URR sudo:  lgrana2 : TTY=pts/0 ; PWD=/home/lgrana2 ; USER=root ; COMMAND=/usr/bin/cp boot.log /home/lgrana2/Code/git-essential-training-5988161/Folder2/
+2026-03-22T20:56:19.621494-05:00 lgrana2-X442URR sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lgrana2(uid=1000)
+2026-03-22T20:56:19.644244-05:00 lgrana2-X442URR sudo: pam_unix(sudo:session): session closed for user root
+2026-03-22T20:56:34.583771-05:00 lgrana2-X442URR sudo:  lgrana2 : TTY=pts/0 ; PWD=/home/lgrana2 ; USER=root ; COMMAND=/usr/bin/cp /var/log/boot.log /home/lgrana2/Code/git-essential-training-5988161/Folder2/
+2026-03-22T20:56:34.586128-05:00 lgrana2-X442URR sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lgrana2(uid=1000)
+2026-03-22T20:56:34.612503-05:00 lgrana2-X442URR sudo: pam_unix(sudo:session): session closed for user root
+2026-03-22T20:56:53.276025-05:00 lgrana2-X442URR sudo:  lgrana2 : TTY=pts/0 ; PWD=/home/lgrana2 ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /home/lgrana2/Code/git-essential-training-5988161/Folder2/
+2026-03-22T20:56:53.279979-05:00 lgrana2-X442URR sudo: pam_unix(sudo:session): session opened for user root(uid=0) by lgrana2(uid=1000)

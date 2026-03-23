@@ -1,1 +1,3 @@
 this is new text
+
+Adding a new line to test commit in various lines
